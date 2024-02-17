@@ -207,6 +207,8 @@ This library is a **msgpack-rpc** library written using modern C++. The goal of 
 
 ## Step 7. Build and Execute the Project
 
+Attention: If you encounter any error when trying to compile the project, first use `./install-ubuntu.sh` 
+
 When you finish updating the project files, you can execute the project using the commands below. 
 
 ```bash
